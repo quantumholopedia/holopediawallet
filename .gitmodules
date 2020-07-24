@@ -1,0 +1,3 @@
+[submodule "src/holopedia"]
+	path = src/holopedia
+	url = https://github.com/quantumholopedia/holopedia.git
